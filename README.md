@@ -1,13 +1,4 @@
 # 💫 About Me:
-<h3 align="left">🌱 I’m currently learning:</h3>
-<p align="left">
-  <ul>
-    <li> Big Data Handling </li>
-    <li> Data Structures and Algorithms </li>
-  </ul>
-</p>
-
-
 <h3 align="left">💻 Technologies I'm proficient in:</h3>
 <p align="left">
   <ul>
